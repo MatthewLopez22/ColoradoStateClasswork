@@ -1,4 +1,4 @@
-# ColoradoStateClasswork
+# Colorado State Classwork
 
 
 This is the Offical github of Matthew Lopez.
